@@ -1,0 +1,16 @@
+C:\Users\Thiago\Documents\projects\rocketseat-c#\desafio-pratico-gerenciador-tarefas\TaskFolio\TaskFolio.Application\bin\Debug\net8.0\TaskFolio.Application.deps.json
+C:\Users\Thiago\Documents\projects\rocketseat-c#\desafio-pratico-gerenciador-tarefas\TaskFolio\TaskFolio.Application\bin\Debug\net8.0\TaskFolio.Application.dll
+C:\Users\Thiago\Documents\projects\rocketseat-c#\desafio-pratico-gerenciador-tarefas\TaskFolio\TaskFolio.Application\bin\Debug\net8.0\TaskFolio.Application.pdb
+C:\Users\Thiago\Documents\projects\rocketseat-c#\desafio-pratico-gerenciador-tarefas\TaskFolio\TaskFolio.Application\bin\Debug\net8.0\TaskFolio.Communication.dll
+C:\Users\Thiago\Documents\projects\rocketseat-c#\desafio-pratico-gerenciador-tarefas\TaskFolio\TaskFolio.Application\bin\Debug\net8.0\TaskFolio.Communication.pdb
+C:\Users\Thiago\Documents\projects\rocketseat-c#\desafio-pratico-gerenciador-tarefas\TaskFolio\TaskFolio.Application\obj\Debug\net8.0\TaskFolio.Application.csproj.AssemblyReference.cache
+C:\Users\Thiago\Documents\projects\rocketseat-c#\desafio-pratico-gerenciador-tarefas\TaskFolio\TaskFolio.Application\obj\Debug\net8.0\TaskFolio.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\Documents\projects\rocketseat-c#\desafio-pratico-gerenciador-tarefas\TaskFolio\TaskFolio.Application\obj\Debug\net8.0\TaskFolio.Application.AssemblyInfoInputs.cache
+C:\Users\Thiago\Documents\projects\rocketseat-c#\desafio-pratico-gerenciador-tarefas\TaskFolio\TaskFolio.Application\obj\Debug\net8.0\TaskFolio.Application.AssemblyInfo.cs
+C:\Users\Thiago\Documents\projects\rocketseat-c#\desafio-pratico-gerenciador-tarefas\TaskFolio\TaskFolio.Application\obj\Debug\net8.0\TaskFolio.Application.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Documents\projects\rocketseat-c#\desafio-pratico-gerenciador-tarefas\TaskFolio\TaskFolio.Application\obj\Debug\net8.0\TaskFolio.Application.sourcelink.json
+C:\Users\Thiago\Documents\projects\rocketseat-c#\desafio-pratico-gerenciador-tarefas\TaskFolio\TaskFolio.Application\obj\Debug\net8.0\TaskFoli.1492421A.Up2Date
+C:\Users\Thiago\Documents\projects\rocketseat-c#\desafio-pratico-gerenciador-tarefas\TaskFolio\TaskFolio.Application\obj\Debug\net8.0\TaskFolio.Application.dll
+C:\Users\Thiago\Documents\projects\rocketseat-c#\desafio-pratico-gerenciador-tarefas\TaskFolio\TaskFolio.Application\obj\Debug\net8.0\refint\TaskFolio.Application.dll
+C:\Users\Thiago\Documents\projects\rocketseat-c#\desafio-pratico-gerenciador-tarefas\TaskFolio\TaskFolio.Application\obj\Debug\net8.0\TaskFolio.Application.pdb
+C:\Users\Thiago\Documents\projects\rocketseat-c#\desafio-pratico-gerenciador-tarefas\TaskFolio\TaskFolio.Application\obj\Debug\net8.0\ref\TaskFolio.Application.dll

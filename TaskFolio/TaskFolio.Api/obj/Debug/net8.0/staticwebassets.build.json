@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "f4ZvEHWbixLX61sJHwIjeO9IKsdp5bcr0Hp2k9UU4to=",
+  "Source": "TaskFolio.Api",
+  "BasePath": "_content/TaskFolio.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

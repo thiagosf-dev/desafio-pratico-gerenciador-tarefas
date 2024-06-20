@@ -1,0 +1,12 @@
+C:\Users\Thiago\Documents\projects\rocketseat-c#\desafio-pratico-gerenciador-tarefas\TaskFolio\TaskFolio.Communication\bin\Debug\net8.0\TaskFolio.Communication.deps.json
+C:\Users\Thiago\Documents\projects\rocketseat-c#\desafio-pratico-gerenciador-tarefas\TaskFolio\TaskFolio.Communication\bin\Debug\net8.0\TaskFolio.Communication.dll
+C:\Users\Thiago\Documents\projects\rocketseat-c#\desafio-pratico-gerenciador-tarefas\TaskFolio\TaskFolio.Communication\bin\Debug\net8.0\TaskFolio.Communication.pdb
+C:\Users\Thiago\Documents\projects\rocketseat-c#\desafio-pratico-gerenciador-tarefas\TaskFolio\TaskFolio.Communication\obj\Debug\net8.0\TaskFolio.Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\Documents\projects\rocketseat-c#\desafio-pratico-gerenciador-tarefas\TaskFolio\TaskFolio.Communication\obj\Debug\net8.0\TaskFolio.Communication.AssemblyInfoInputs.cache
+C:\Users\Thiago\Documents\projects\rocketseat-c#\desafio-pratico-gerenciador-tarefas\TaskFolio\TaskFolio.Communication\obj\Debug\net8.0\TaskFolio.Communication.AssemblyInfo.cs
+C:\Users\Thiago\Documents\projects\rocketseat-c#\desafio-pratico-gerenciador-tarefas\TaskFolio\TaskFolio.Communication\obj\Debug\net8.0\TaskFolio.Communication.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Documents\projects\rocketseat-c#\desafio-pratico-gerenciador-tarefas\TaskFolio\TaskFolio.Communication\obj\Debug\net8.0\TaskFolio.Communication.sourcelink.json
+C:\Users\Thiago\Documents\projects\rocketseat-c#\desafio-pratico-gerenciador-tarefas\TaskFolio\TaskFolio.Communication\obj\Debug\net8.0\TaskFolio.Communication.dll
+C:\Users\Thiago\Documents\projects\rocketseat-c#\desafio-pratico-gerenciador-tarefas\TaskFolio\TaskFolio.Communication\obj\Debug\net8.0\refint\TaskFolio.Communication.dll
+C:\Users\Thiago\Documents\projects\rocketseat-c#\desafio-pratico-gerenciador-tarefas\TaskFolio\TaskFolio.Communication\obj\Debug\net8.0\TaskFolio.Communication.pdb
+C:\Users\Thiago\Documents\projects\rocketseat-c#\desafio-pratico-gerenciador-tarefas\TaskFolio\TaskFolio.Communication\obj\Debug\net8.0\ref\TaskFolio.Communication.dll
